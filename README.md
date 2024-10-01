@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @safak-53
-- 👀 I’m interested in football.
-- 🌱 I’m currently learning English.
+
